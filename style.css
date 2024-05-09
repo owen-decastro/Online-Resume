@@ -1,0 +1,111 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: radial-gradient( #1A141A 25%, #f1f1f1 75%);
+    font-family: system-ui;
+  }
+  
+  .clearfix{
+    clear: both;
+  }
+  
+  .main{
+    height: 1150px;
+    width: 800px;
+    background-color: #1A141A;
+    box-shadow: 5px 7px 15px #352535;
+    margin: 20px auto;
+  }
+  ul li {
+    color: #ffffff;
+  }
+  
+  .top-section{
+    background-color: #1A141A;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .profile_pic{
+    width: 150px;
+    border-radius: 50%;
+  }
+  
+  .p1{
+    color: #F1F1F3;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0px;
+    margin-top: 10px;
+  }
+  
+  .p1 span{
+    font-weight: 100;
+    color: #F1F1F3;
+  }
+  
+  .p2{
+    font-size: 20px;
+    color: #F1F1F3;
+    margin: 0px;
+    margin-top: 10px;
+  }
+  
+  .col-div-4{
+    width: 35%;
+    float: left;
+  }
+  
+  .col-div-8{
+    width: 62%;
+    float: left;
+  }
+  
+  .line{
+    border-left: 1px solid #4c3041;
+    height: 800px;
+    width: 2%;
+    margin-top: 30px;
+    float: left;
+  }
+  
+  .content-box{
+    padding: 20px;
+  }
+  
+  .head{
+    font-size: 20px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  
+  .p3{
+    color: rgb(255, 255, 255);
+    margin-bottom: -5px;
+  }
+  
+  
+  
+  .my{
+    color: #ffffff;
+  }
+  
+  .skills{
+    margin-left: -20px;
+    margin-bottom: 0px;
+  }s
+  
+  .skills li{
+    padding: 5px;
+  }
+  
+  .skills li span{
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+  }
+  
+  .p-4{
+    font-size: 14px;
+    color: rgb(253, 253, 253);
+  }
